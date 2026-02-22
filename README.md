@@ -1,65 +1,52 @@
 <h1 align="center">Hi 👋, I'm Lucky Tomar</h1>
-<h3 align="center">Java Backend Developer | Spring Developer | REST API Builder</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=luckytomar18&label=Profile%20views&color=0e75b6&style=flat" alt="luckytomar18" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Java+Backend+Developer;Spring+Boot+Developer;Open+Source+Enthusiast;Always+Learning+New+Technologies" />
 </p>
 
 ---
 
 ## 🚀 Currently Exploring
-🟢 Spring Boot  
-🟢 REST APIs  
-🟢 JWT Authentication  
-🟢 System Design Basics  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+</p>
 
 ---
 
-## 💬 About Me
+## 🌍 Open Source
 
-- 🔭 Working on Spring MVC & Hibernate projects  
-- 🌱 Learning Spring Boot & Microservices  
-- 🧠 Strong in OOP, MVC Architecture & Database Design  
-- ⚡ Love solving backend logic problems  
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-purple?style=for-the-badge"/>
+</p>
 
 ---
+
 
 # 🛠️ Tech Stack
 
-### 💻 Languages & Frameworks
-<p>
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,git,github" />
+## 💻 Languages & Frameworks
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,angular,js,css" />
 </p>
-
-### 🗄️ Backend Technologies
-- Java  
-- Spring MVC  
-- Spring Boot  
-- Hibernate  
-- Servlets & JSP  
-
-### 🛢 Database
-- MySQL  
 
 ---
 
-# 📂 Featured Projects
+## ☁️ Cloud & DevOps
 
-### 🏫 Student Management System
-✔ CRUD Operations  
-✔ Spring + Hibernate  
-✔ MVC Architecture  
-✔ MySQL Integration  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins" />
+</p>
 
-### 📁 File Upload System
-✔ Multipart file handling  
-✔ Server-side validation  
-✔ Exception handling  
+---
 
-### 🔐 Authentication Module
-✔ Login / Registration  
-✔ Session Management  
-✔ Role-based Access  
+## 🗄️ Databases & Monitoring
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+</p>
 
 ---
 
@@ -75,13 +62,4 @@
 
 ---
 
-# 🎯 2026 Goals
-
-- ✅ Build Production Ready REST APIs  
-- ✅ Learn Spring Security + JWT  
-- ✅ Deploy project on cloud  
-- ✅ Contribute to open source  
-
----
-
-<h3 align="center">⭐️ From Lucky Tomar</h3>
+<h3 align="center">⭐️ Keep Building | Keep Growing 🚀</h3>
