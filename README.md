@@ -1,63 +1,94 @@
-# Hi 👋 I'm Lucky Tomar
+<h1 align="center">Hi 👋, I'm Lucky Tomar</h1>
+<h3 align="center">Java Backend Developer | Spring Developer | REST API Builder</h3>
 
-💻 Intermediate Java Backend Developer  
-🚀 Passionate about building scalable backend systems  
-📍 India  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=luckytomar18&label=Profile%20views&color=0e75b6&style=flat" alt="luckytomar18" />
+</p>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 Currently Exploring
+🟢 Spring Boot  
+🟢 REST APIs  
+🟢 JWT Authentication  
+🟢 System Design Basics  
+
+---
+
+## 💬 About Me
 
 - 🔭 Working on Spring MVC & Hibernate projects  
-- 🌱 Learning Spring Boot & REST APIs  
-- 🧠 Strong understanding of OOP & MVC architecture  
-- ⚡ Enjoy backend logic & debugging  
+- 🌱 Learning Spring Boot & Microservices  
+- 🧠 Strong in OOP, MVC Architecture & Database Design  
+- ⚡ Love solving backend logic problems  
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### Backend
-- Java
-- Spring MVC
-- Hibernate
-- Servlets & JSP
+### 💻 Languages & Frameworks
+<p>
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,git,github" />
+</p>
 
-### Database
-- MySQL
+### 🗄️ Backend Technologies
+- Java  
+- Spring MVC  
+- Spring Boot  
+- Hibernate  
+- Servlets & JSP  
 
-### Tools
-- Git
-- GitHub
-- Apache Tomcat
+### 🛢 Database
+- MySQL  
 
 ---
 
-## 📂 Featured Projects
+# 📂 Featured Projects
 
 ### 🏫 Student Management System
-- CRUD using Spring + Hibernate
-- MVC architecture
-- MySQL integration
+✔ CRUD Operations  
+✔ Spring + Hibernate  
+✔ MVC Architecture  
+✔ MySQL Integration  
 
 ### 📁 File Upload System
-- Multipart file handling
-- Validation
-- Exception handling
+✔ Multipart file handling  
+✔ Server-side validation  
+✔ Exception handling  
 
 ### 🔐 Authentication Module
-- Login / Registration
-- Session management
-- Role-based access
+✔ Login / Registration  
+✔ Session Management  
+✔ Role-based Access  
 
 ---
 
-## 🎯 Current Goals
+# 📊 GitHub Stats
 
-- Build Spring Boot REST APIs  
-- Learn JWT Authentication  
-- Improve system design knowledge  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=luckytomar18&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luckytomar18&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-⭐️ From luckytomar18
+# 🎯 2026 Goals
+
+- ✅ Build Production Ready REST APIs  
+- ✅ Learn Spring Security + JWT  
+- ✅ Deploy project on cloud  
+- ✅ Contribute to open source  
+
+---
+
+# 📫 Connect With Me
+
+📧 Your Email Here  
+💼 Add LinkedIn Link Here  
+
+---
+
+<h3 align="center">⭐️ From Lucky Tomar</h3>
