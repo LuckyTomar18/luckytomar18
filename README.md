@@ -4,8 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Java+Backend+Developer;Spring+Boot+Developer;Open+Source+Enthusiast;Always+Learning+New+Technologies" />
 </p>
 
----
-
 ## 🚀 Currently Exploring
 
 <p align="center">
@@ -13,15 +11,11 @@
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
 </p>
 
----
-
 ## 🌍 Open Source
 
 <p align="center">
   <img src="https://img.shields.io/badge/Open%20Source-Contributor-purple?style=for-the-badge"/>
 </p>
-
----
 
 
 # 🛠️ Tech Stack
@@ -32,15 +26,11 @@
   <img src="https://skillicons.dev/icons?i=java,spring,angular,js,css" />
 </p>
 
----
-
 ## ☁️ Cloud & DevOps
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins" />
 </p>
-
----
 
 ## 🗄️ Databases & Monitoring
 
@@ -48,18 +38,5 @@
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
 </p>
 
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luckytomar18&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luckytomar18&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 <h3 align="center">⭐️ Keep Building | Keep Growing 🚀</h3>
