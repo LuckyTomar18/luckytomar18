@@ -84,11 +84,4 @@
 
 ---
 
-# 📫 Connect With Me
-
-📧 Your Email Here  
-💼 Add LinkedIn Link Here  
-
----
-
 <h3 align="center">⭐️ From Lucky Tomar</h3>
