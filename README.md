@@ -1,7 +1,8 @@
-
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=I'm+Lucky;Java+Full+Stack+Developer;" />
-</h3>
+<h1 align="center">
+  <span style="color:#00F7FF; font-size:40px;">
+    Hi, I'm Lucky — Java Full Stack Developer
+  </span>
+</h1>
 
 ---
 
@@ -30,4 +31,10 @@ Spring Boot • Angular • System Design
 ---
 
 ### 📫 Contact
-📧 luckytomar1801@gmail.com
+📧 rishabhshrivastava@zohomail.com
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=luckytomar18&show_icons=true&theme=tokyonight" />
+</p>
