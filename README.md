@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm Lucky Tomar</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Java+Backend+Developer;Spring+Boot+Developer;Open+Source+Enthusiast;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Hi +👋+,+ I'm+ Lucky+ Tomar;Java+Full+Stack+Developer" />
 </p>
 
 ## 🚀 Currently Exploring
