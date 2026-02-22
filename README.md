@@ -1,8 +1,6 @@
-<h1 align="center">Hi 👋 I'm Lucky Tomar</h1>
-<h3 align="center">Java Full Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=I'm+Lucky;Java+Full+Stack+Developer;Spring+Boot+Enthusiast;Open+Source+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=I'm+Lucky;Java+Full+Stack+Developer;" />
 </p>
 
 ---
@@ -33,9 +31,3 @@ Spring Boot • Angular • System Design
 
 ### 📫 Contact
 📧 luckytomar1801@gmail.com
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luckytomar18&show_icons=true&theme=tokyonight" />
-</p>
