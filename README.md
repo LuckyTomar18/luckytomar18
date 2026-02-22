@@ -1,7 +1,7 @@
 
-<p align="center">
+<h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=I'm+Lucky;Java+Full+Stack+Developer;" />
-</p>
+</h3>
 
 ---
 
