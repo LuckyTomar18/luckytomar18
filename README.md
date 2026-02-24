@@ -1,36 +1,37 @@
-<h1 align="center">Hi 👋 I'm Lucky Tomar</h1>
-<h3 align="center">Java Full Stack Developer</h3>
+<h1 align="center">Hey 👋 I'm Lucky</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=I'm+Lucky;Java+Full+Stack+Developer;Spring+Boot+Enthusiast;Open+Source+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&center=true&vCenter=true&width=600&height=45&lines=Java+Full+Stack+Developer;Spring+Boot+Specialist;Angular+Frontend+Developer;Building+Scalable+Applications;Code.+Debug.+Repeat.🔥" />
 </p>
 
 ---
 
-### 🚀 Currently Exploring
-Spring Boot • Angular 
+## 🚀 What I Do
+
+🧩 Design REST APIs  
+⚙️ Build Full Stack Applications  
+☁️ Deploy on Cloud  
+📦 Work with Containers  
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠 Tech Stack
 
-**Languages & Frameworks**
-<p>
-  <img src="https://skillicons.dev/icons?i=java,spring,angular,js,css" />
-</p>
-
-**Cloud & DevOps**
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins" />
-</p>
-
-**Databases**
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,angular,js,html,css,aws,docker,mysql,postgres,mongodb" />
 </p>
 
 ---
 
-### 📫 Contact
-📧 luckytomar1801@gmail.com
+## 📊 GitHub Insights
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
+</p>
+
+---
+
+<p align="center">
+  💻 Passionate about Backend Engineering  
+  🚀 Future Microservices Architect  
+</p>
