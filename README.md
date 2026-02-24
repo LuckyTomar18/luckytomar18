@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋 I'm Lucky</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&center=true&vCenter=true&width=600&height=45&lines=Java+Full+Stack+Developer;Spring+Boot+Specialist;Angular+Frontend+Developer;Building+Scalable+Applications;Code.+Debug.+Repeat.🔥" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&center=true&vCenter=true&width=600&height=45&lines=Java+Full+Stack+Developer;Spring+Boot+Specialist;Angular+Frontend+Developer;Building+Scalable+Applications;.🔥" />
 </p>
 
 ---
@@ -23,13 +23,6 @@
 
 ---
 
-## 📊 GitHub Insights
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
-</p>
-
----
 
 <p align="center">
   💻 Passionate about Backend Engineering  
