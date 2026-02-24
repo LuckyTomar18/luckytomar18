@@ -8,7 +8,7 @@
 ---
 
 ### 🚀 Currently Exploring
-Spring Boot • Angular • System Design
+Spring Boot • Angular 
 
 ---
 
