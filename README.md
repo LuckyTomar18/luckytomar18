@@ -12,7 +12,6 @@
 - 💻 Passionate **Java Full Stack Developer**
 - 🌱 Currently exploring **Microservices, Docker & AWS**
 - 🔥 Love building **REST APIs** and **Scalable Applications**
-- 🎯 Goal: Become a **Backend & Cloud Architect**
 - ⚡ Always learning new technologies and best practices
 
 ---
